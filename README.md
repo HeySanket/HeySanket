@@ -1,6 +1,6 @@
 <h1 align="center">Hello Sir 👋, I'm Sanket Gole</h1>
 <h3 align="center">A Passionate Frontend Developer From India</h3>
-<img
+<img   
   align="right"
   width="400"
   src="https://www.digisailor.com/assets/img/services-details/5.gif"
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/hey.samket" target="blank"
+  <a href="https://twitter.com/HeySanket" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
