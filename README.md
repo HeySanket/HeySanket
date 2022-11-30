@@ -26,6 +26,7 @@
       height="30"
       width="40"
   /></a>
+
   <a href="https://instagram.com/hey.sanket" target="blank"
     ><img
       align="center"
@@ -38,39 +39,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
+<a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
     rel="noreferrer"
@@ -82,23 +51,7 @@
       height="40"
     />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react"
@@ -106,15 +59,24 @@
       height="40"
     />
   </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
-      src="https://reactnative.dev/img/header_logo.svg"
-      alt="reactnative"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      alt="bootstrap"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+ <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqYZZEliSvgOj37jJ_2jSYoQm2mXITpFGgjqbgobvkzpTk4dKWt8rQJFIjzPkAljM4u7M&usqp=CAU"
+      alt="bootstrap"
+      width="40"
+      height="40"
+    />
+  </a>
+ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="typescript"
@@ -122,4 +84,57 @@
       height="40"
     />
   </a>
+ <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="https://reactnative.dev/img/header_logo.svg"
+      alt="reactnative"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcaaOIFoPzpI312fNOVLjIzXp6beUBz7tWQ0q1HcPB2Su0NvEIZeVr1rc3DbkbNil1Nm4&usqp=CAU"
+      alt="css3"
+      width="40"
+      height="40"
+    />
+  </a>
+ <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img
+      src="https://w7.pngwing.com/pngs/840/443/png-transparent-html-5-logo-web-development-html-css3-canvas-element-web-design-w3c-html5-logo-miscellaneous-text-orange-thumbnail.png"
+      alt="html5"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://e7.pngegg.com/pngimages/247/558/png-clipart-node-js-javascript-express-js-npm-react-github-angle-text.png"
+      alt="express"
+      width="40"
+      height="40"
+    />
+  </a>
+ 
+  
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.pngitem.com/pimgs/m/385-3850320_png-transparent-mongodb-icon-mongodb-logo-png-download.png"
+      alt="mongodb"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://e7.pngegg.com/pngimages/540/810/png-clipart-node-js-javascript-npm-computer-icons-web-application-others-miscellaneous-text-thumbnail.png"
+      alt="nodejs"
+      width="40"
+      height="40"
+    />
+  </a>
+ 
+ 
+ 
 </p>
