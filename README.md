@@ -42,14 +42,6 @@
       height="30"
       width="40"
   /></a>
-<a href="https://twitter.com/HeySanket" target="blank"
-    ><img
-      align="center"
-      src="https://i.pinimg.com/736x/89/02/9f/89029fa5a56688268efe7d9076f76a85.jpg"
-      alt="hey.samket"
-      height="30"
-      width="40"
-  /></a>
 <a href="https://www.google.com/search?q=wa.+me%2F91+8421842224&sxsrf=ALiCzsY4hT7akF3MzqnKcd_2nANu1QXQkw%3A1669826182944&ei=hoaHY5qeOd_gseMPh6280A4&oq=we%2F91&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQARgBMgoIABBHENYEELADMgoIABBHENYEELADMgoIABBHENYEELADMgoIABBHENYEELADMgoIABBHENYEELADMgoIABBHENYEELADMgoIABBHENYEELADMgoIABBHENYEELADSgQIQRgASgQIRhgAUABYAGCxFWgEcAB4AIABAIgBAJIBAJgBAMgBCMABAQ&sclient=gws-wiz-serp" target="blank"
     ><img
       align="center"
