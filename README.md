@@ -34,6 +34,22 @@
       height="30"
       width="40"
   /></a>
+   <a href="https://twitter.com/HeySanket" target="blank"
+    ><img
+      align="center"
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpr_FM2x5i1n8N7O1XRPaT4Pbhgm0nfxWl5Q&usqp=CAU"
+      alt="hey.samket"
+      height="30"
+      width="40"
+  /></a>
+<a href="https://twitter.com/HeySanket" target="blank"
+    ><img
+      align="center"
+      src="https://i.pinimg.com/736x/89/02/9f/89029fa5a56688268efe7d9076f76a85.jpg"
+      alt="hey.samket"
+      height="30"
+      width="40"
+  /></a>
 </p>
 
 
