@@ -1,9 +1,11 @@
 <h1 align="center">Hello Sir 👋, I'm Sanket Gole</h1>
 <h3 align="center">A Passionate Frontend Developer From India</h3>
+
+
 <img   
   align="right"
   width="400"
-  src="https://www.digisailor.com/assets/img/services-details/5.gif"
+  src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif"
   alt="Codding Image"
 />
 
